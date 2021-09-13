@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoswinicios&label=Profile%20views&color=0e75b6&style=flat" alt="marcoswinicios" /> </p>
 
-- 🌱 I’m currently learning **Java Stack and JavaScript**
+- 🌱 I’m currently learning **Java and its technologies and JavaScript for the front-end, but with a greater focus on the Java back-end**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
