@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoswinicios&label=Profile%20views&color=0e75b6&style=flat" alt="marcoswinicios" /> </p>
 
-- 🌱 Atualmente estou estudando **Java e tecnologias relacionadas e Javascript para front-end. Porém com grande foco no back-end com Java**
+- Atualmente estou estudando 
+  - Java e tecnologias relacionadas 
+  - Javascript para front-end. 
+
+- Porém com grande foco no back-end com **Java**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
