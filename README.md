@@ -5,7 +5,7 @@
 
 - Atualmente estou estudando 
   - Java e tecnologias relacionadas 
-  - Javascript para front-end. 
+  - Javascript. 
 
 - Porém com grande foco no back-end com **Java**
 
