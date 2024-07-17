@@ -6,8 +6,7 @@
 - Atualmente estou estudando 
   - Java e tecnologias relacionadas 
   - Javascript. 
-
-- Porém com grande foco no back-end com **Java**
+  - Backend
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
